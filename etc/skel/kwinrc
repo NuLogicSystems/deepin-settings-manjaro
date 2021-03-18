@@ -1,0 +1,11 @@
+[Compositing]
+Enabled=true
+OpenGLIsUnsafe=false
+
+[Desktops]
+
+[Script-closewindowaction]
+BorderActivate=
+
+[Script-runcommandaction]
+BorderActivate=
