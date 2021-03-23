@@ -1,1 +1,1 @@
-manjaro-deepin-settings
+deepin-settings-manjaro

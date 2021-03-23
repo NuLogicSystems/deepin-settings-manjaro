@@ -1,13 +1,14 @@
 # $Id$
 # Maintainer: James Kittsmiller (AJSlye) <james@nulogicsystems.com>
 
-pkgname=manjaro-deepin-settings
+pkgname=deepin-settings-manjaro
 pkgver=$(date +%Y.%m)
 pkgrel=1
 pkgdesc="Branding configuration files for the manjaro deepin edition"
 arch=('any')
 url='https://github.com/NuLogicSystems/manjaro-deepin-settings'
 license=('GPL')
+groups=('deepin-manjaro')
 
 package() {
   cd ../..
