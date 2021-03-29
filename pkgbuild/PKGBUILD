@@ -3,7 +3,7 @@
 
 pkgname=deepin-settings-manjaro
 pkgver=$(date +%Y.%m)
-pkgrel=2
+pkgrel=3
 pkgdesc="Branding configuration files for the manjaro deepin edition"
 arch=('any')
 url='https://github.com/NuLogicSystems/manjaro-deepin-settings'
